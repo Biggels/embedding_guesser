@@ -1,0 +1,10 @@
+# transformers
+# torch
+# torchvision
+dotenv
+# datasets
+# evaluate
+# accelerate
+# timm
+# bitsandbytes
+sentence_transformers
