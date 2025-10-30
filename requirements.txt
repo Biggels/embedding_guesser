@@ -8,3 +8,4 @@ dotenv
 # timm
 # bitsandbytes
 sentence_transformers
+pandas
